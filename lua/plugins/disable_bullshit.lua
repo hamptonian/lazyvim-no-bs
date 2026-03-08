@@ -15,5 +15,4 @@ return {
   { "venv-selector.nvim", enabled = false },
   { "tpope/vim-fugitive", enabled = false },
   { "NeogitOrg/neogit", dependencies = { "nvim-lua/plenary.nvim" } },
-  { import = "lazyvim.plugins.extras.coding.blink", enabled = false },
 }
